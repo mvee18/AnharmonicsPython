@@ -1,0 +1,2 @@
+Format = Force Constant, m1, m2:
+516, 12, 16
